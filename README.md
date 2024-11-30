@@ -13,6 +13,7 @@ This is a simple Color Picker application built with React, utilizing the `useSt
 - Adjustable RGB (or Hex) color values
 - Minimalist and user-friendly interface
 
+
 ### Built With
 - React
 - JavaScript (ES6+)
